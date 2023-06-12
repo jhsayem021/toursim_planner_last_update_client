@@ -2,14 +2,32 @@
 
  You can find the live site link here (https://tourism-planner-231.web.app)
 
-# Behind The Wall
+#For seeing Admin Dashboard:
 
- You can book any tour packages from this site as well as can calculate your approx. cost per head. We appriciate your feedback for that we have a special contact section to communicate with us.
+Email: demo@demo.com
 
-# Features & Functionality
+Pass: Demo@123
 
- You can communicate with us easily through our contact section.
- Guest users can see home, about & contact us pages.
- Only registered account holder can order us they can see other 2 routes namely packages and orders.
- Our user can see the order list and aslo remove his/her order easily.
- Packages will take a minor loading time while fetching the data from the database.
+### Using technology
+
+1. React.js
+
+2. Node js
+
+3.MongoDB
+
+4.Firbase Authentication
+
+### UI service
+
+1. Create an user profile
+
+2.Book a tour packege
+
+3.Can create a payment by stripe
+
+### Admin panal
+
+1. Manage Users and package services
+
+2.Can see all booking list and export data as a excel file.
